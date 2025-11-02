@@ -1,5 +1,5 @@
 import { CirclePlus } from "lucide-react"
-import TopBar from "./components/Topbar"
+import TopBar from "./components/TopBar"
 import BlogCard from "./components/BlogCard"
 import CreateModal from "./components/CreateModal"
 import DeleteModal from "./components/DeleteModal";
